@@ -1,0 +1,16 @@
+---
+object: set
+id: b2ab5603-659f-41ff-93cd-7abfc35aa006
+code: cei
+tcgplayer_id: 1527
+name: Intl. Collectors' Edition
+uri: https://api.scryfall.com/sets/b2ab5603-659f-41ff-93cd-7abfc35aa006
+scryfall_uri: https://scryfall.com/sets/cei
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Acei&unique=prints
+released_at: '1993-12-10'
+set_type: memorabilia
+card_count: 302
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/cei.svg?1693800000
